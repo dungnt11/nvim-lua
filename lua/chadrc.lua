@@ -8,7 +8,7 @@ M.ui = {
    italic_comments = false,
 
    -- theme to be used, to see all available themes, open the theme switcher by <leader> + th
-   theme = "uwu",
+   theme = "one-light",
 
    -- theme toggler, toggle between two themes, see theme_toggleer mappings
    theme_toggler = {
@@ -176,7 +176,7 @@ M.mappings.plugin = {
       buffers = "<leader>fb",
       find_files = "<leader>ff",
       git_commits = "<leader>cm",
-      git_status = "<leader>gt",
+      git_status = "<leader>gs",
       help_tags = "<leader>fh",
       live_grep = "<leader>fw",
       oldfiles = "<leader>fo",
